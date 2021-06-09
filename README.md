@@ -2,7 +2,6 @@
 Code for paper "Structure-Regularized Attention for Deformable Object Representation". 
 
 The code contains the ResNet50-StRA network for person re-identification task and the corresponding configurations to reproduce our results. 
-We will release the related codes and models.
 
 ## Requirements
 
