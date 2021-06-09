@@ -14,7 +14,6 @@ pip install -r requirements.txt
 ## Training
 
 The reported results are trained and evaluated based on the existing person ReID framework: https://github.com/KaiyangZhou/deep-person-reid.
-(We do not include the forked repository here due to consideration of some potential issues.)
 
 To reproduce the reported results, please pull from the above `deep-person-reid` repository (version 0.9.1)
 and download the datasets following the instructions. Then integrate with our network code:
