@@ -36,11 +36,11 @@ python eval.py
 
 ## Results
 
-By downloading our pre-trained models and running the evaluation code, the followng results will be obtained:
+By downloading our pre-trained model and running the evaluation code, the followng results will be obtained. And the result reported in the paper is the mean of 3 runs.
 
 | Dataset      | mAP  | rank1 |rank5 |rank10 |
 | ------------------ |---------------- | -------------- |-------------- |------------- |
 | Market1501  |     84.2%         |      94.0%       |  97.6% |98.5% |
 
-## Pre-trained Models
+## Pre-trained Model
  The checkpoint model on Market-1501 dataset can be found at https://drive.google.com/file/d/1oXLY60iX8Vkbp-iTlrrzzkrFjME1Esun/view?usp=sharing.
